@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ian Foss - Module Three Assignment</string>
+    <string name="hint">This is where you type.</string>
+    <string name="button_text">Say Hello</string>
+</resources>
